@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madbull12&label=Profile%20views&color=0e75b6&style=flat" alt="madbull12" /> </p>
 
-- 🔭 I’m currently working on **portfolio app**
+- ✨ Learning to be a better developer 
 
-- 🌱 I’m currently learning **Redis, websockets, Framer motion**
+- 🌱 Current favourite stack: **T3 stack(next js, prisma, tailwind, typescript, tRPC)**
 
 - 📫 How to reach me **huangandrian02@gmail.com**
 
