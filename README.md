@@ -5,7 +5,7 @@
 
 - ✨ Learning to be a better developer 
 
-- 🌱 Currently learning go, gin and docker**
+- 🌱 Currently learning go, gin and docker
 
 - 📫 How to reach me **huangandrian02@gmail.com**
 
