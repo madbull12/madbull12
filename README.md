@@ -5,7 +5,7 @@
 
 - ✨ Learning to be a better developer 
 
-- 🌱 Current favourite stack: **T3 stack(next js, prisma, tailwind, typescript, tRPC)**
+- 🌱 Currently learning go, gin and docker**
 
 - 📫 How to reach me **huangandrian02@gmail.com**
 
