@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madbull12&label=Profile%20views&color=0e75b6&style=flat" alt="madbull12" /> </p>
 
-- ✨ Learning to be a better developer 
+- ✨ Growing everyday
 
-- 🌱 Currently learning go, gin and docker
+- 🌱 Currently learning system design and backend development
 
 - 📫 How to reach me **huangandrian02@gmail.com**
 
